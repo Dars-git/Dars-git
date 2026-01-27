@@ -1,17 +1,150 @@
-# 💫 About Me:
-👋 Hi there! I'm Darshan Vaghasiya, a Software Engineer based in Baltimore, MD, with a passion for creating impactful and efficient software solutions. Currently pursuing a Master of Professional Studies in Software Engineering at the University of Maryland, Baltimore County, I specialize in developing software that optimizes user experience and enhances backend functionality.<br><br>💻 My skills span multiple programming languages and frameworks, including Python, Java, C, and Django, alongside experience in Machine Learning and data analytics. My work includes hands-on projects, from malware detection and user interface optimization to real-time face mask detection and interactive real estate platforms.<br><br>📈 I'm driven by curiosity and a commitment to continuous learning, with certifications in Project Management and Advanced Data Analytics from Google. I thrive in collaborative environments, using Agile and Scrum methodologies to deliver robust, scalable software solutions.<br><br>When I'm not coding, you'll likely find me exploring new places, spending time with my pets, or experimenting with new technologies to expand my skill set.<br>
+# 💫 About Me
+
+👋 Hi, I’m **Darshan Vaghasiya**, a Software Engineer based in **Baltimore, MD**. I graduated from the **University of Maryland, Baltimore County (UMBC)** with a Master’s degree in Software Engineering and have been actively building and refining production-style systems for the past **1.5 years**.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-vaghasiya/) 
+My work focuses on **backend engineering, microservices architecture, cloud-native applications, and AI-powered systems**. I’ve designed and implemented distributed systems using **Spring Boot and Spring Cloud**, built full-stack applications deployed on **AWS and Kubernetes**, and developed intelligent tools using **LLMs, FastAPI, and vector databases**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dars-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dars-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+I enjoy solving complex system design problems, building scalable APIs, and working across the stack to deliver reliable, maintainable software. I’m comfortable in Agile environments and value clean architecture, performance, and real-world impact.
+
+
+Outside of work, I enjoy exploring new technologies, traveling, and continuously sharpening my engineering skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dars-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-vaghasiya/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+
+### Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300FFFF.svg?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%237926CE.svg?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)
+
+### Frontend & Databases
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔗 Microservices Finance App
+A **Spring Boot + Spring Cloud microservices architecture** for financial management. Includes independent services for accounts, statistics, notifications, API gateway, service discovery, centralized configuration, monitoring, and event-driven communication.
+
+**Tech:** Java, Spring Boot, Spring Cloud, Eureka, API Gateway, MongoDB, RabbitMQ, Docker  
+🔹 Demonstrates production-style microservices design and inter-service communication  
+🔹 Focus on scalability, fault tolerance, and observability
+
+🔗 https://github.com/Dars-git/Microservices-Finance-App
+
+---
+
+### 🤖 Ask-Your-Docs
+An **AI-powered document Q&A system** that allows users to upload documents and chat with them using contextual retrieval and large language models.
+
+**Tech:** Python, LangChain, FastAPI, Streamlit, Vector Databases  
+🔹 Context-aware document search  
+🔹 Clean UI for interactive knowledge retrieval
+
+🔗 https://github.com/Dars-git/Ask-Your-Docs
+
+---
+
+### ⚡ QuickAI
+A lightweight AI experimentation project designed for **rapid prototyping of AI-driven features**, enabling fast iteration with language models and APIs.
+
+**Tech:** Python, AI APIs  
+🔹 Focus on reusable AI components  
+🔹 Built for rapid experimentation
+
+🔗 https://github.com/Dars-git/QuickAI
+
+---
+
+### 🛒 Full-Stack E-Commerce Web Application
+A **cloud-native e-commerce platform** built with microservices architecture, featuring backend services, API gateway, React frontend, CI/CD pipelines, and Kubernetes deployment on AWS.
+
+**Tech:** Spring Boot, React.js, MongoDB, Docker, Kubernetes, Helm, AWS EKS  
+🔹 End-to-end full-stack system  
+🔹 Production-ready cloud deployment
+
+🔗 https://github.com/Dars-git/Fullstack-E-commerce-web-application
+
+---
+
+### 🗺️ Smart Route Planner
+A route optimization system designed to compute efficient paths using algorithmic logic and real-world constraints.
+
+**Tech:** Python, Algorithms  
+🔹 Emphasis on optimization and decision-making logic  
+🔹 Real-world routing use cases
+
+🔗 https://github.com/Dars-git/SmartRoutePlanner
+
+---
+
+### 🚨 Real-Time Alert Delivery System
+A system designed for **real-time notification delivery**, focusing on reliability and low-latency message propagation.
+
+**Tech:** Distributed Systems, Messaging  
+🔹 Event-driven alert architecture  
+🔹 Scalable real-time communication
+
+🔗 https://github.com/Dars-git/RealTimeAlertDeliverySystem
+
+---
+
+### 📊 Personal Finance Tracker
+A personal finance management application that helps users track expenses and gain insights into spending patterns.
+
+**Tech:** Full-Stack Development, Databases  
+🔹 User-centric financial tracking  
+🔹 Data organization and reporting
+
+🔗 https://github.com/Dars-git/PersonalFinanceTracker
+
+---
+
+### ✈️ Aircraft Design Evaluation System
+An engineering tool for evaluating aircraft design parameters and performance trade-offs.
+
+**Tech:** Python, Engineering Computation  
+🔹 Analytical evaluation of aircraft designs  
+🔹 Applied engineering problem solving
+
+🔗 https://github.com/Dars-git/Aircraft-Design-Evaluation-System
+
+---
+
+### 🏡 Real Estate Web Application
+A Django-based real estate platform for property listings and user interactions.
+
+**Tech:** Python, Django, Bootstrap  
+🔹 Full-stack CRUD application  
+🔹 Clean UI and backend integration
+
+🔗 https://github.com/Dars-git/RealEstate
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dars-git&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dars-git&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Dars-git&icon=0&color=0)](https://visitcount.itsvg.in)
