@@ -6,9 +6,6 @@
 
 I build reliable backend platforms, cloud-native services, and AI systems designed for real-world use.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dars--git-181717?style=flat-square&logo=github)](https://github.com/Dars-git)
-[![Profile views](https://komarev.com/ghpvc/?username=Dars-git&style=flat-square&color=2563eb)](https://github.com/Dars-git)
-
 </div>
 
 ---
@@ -58,13 +55,6 @@ I'm a software engineer focused on turning complex requirements into maintainabl
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dars-git&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Darshan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dars-git&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Darshan's most used languages" />
-</div>
 
 ---
 
