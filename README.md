@@ -1,122 +1,77 @@
-# 💫 About Me
+<div align="center">
 
-Hi, I’m **Darshan Vaghasiya**, an **expert Software Engineer** with strong experience designing and building **scalable backend systems, cloud-native microservices, and AI-powered applications**.
+# Hi, I'm Darshan Vaghasiya 👋
 
-I specialize in **distributed system architecture**, **production-ready API design**, and **end-to-end system development** using modern engineering practices. My work spans **microservices with Spring Boot and Spring Cloud**, **cloud deployment using Docker, Kubernetes, and AWS**, and **intelligent systems powered by LLMs, FastAPI, and vector databases**.
+### Software Engineer · Distributed Systems · Cloud · Applied AI
 
-I focus on writing clean, maintainable code, optimizing system performance, and delivering reliable software that scales in real-world environments.
+I build reliable backend platforms, cloud-native services, and AI systems designed for real-world use.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Dars--git-181717?style=flat-square&logo=github)](https://github.com/Dars-git)
+[![Profile views](https://komarev.com/ghpvc/?username=Dars-git&style=flat-square&color=2563eb)](https://github.com/Dars-git)
 
-## 🌟 Featured Projects
-
-### 🔗 Microservices Finance App
-A **production-grade microservices architecture** designed to demonstrate real-world backend system design. The system includes independently deployable services, API Gateway, service discovery, centralized configuration, monitoring, and event-driven communication.
-
-**Tech:** Java, Spring Boot, Spring Cloud, Eureka, API Gateway, MongoDB, RabbitMQ, Docker  
-🔹 Strong example of distributed systems and backend engineering  
-🔹 Focused on scalability, resilience, and service-to-service communication  
-
-🔗 https://github.com/Dars-git/Microservices-Finance-App
+</div>
 
 ---
 
-### 🤖 Ask-Your-Docs (AI Document Q&A Platform)
-An **AI-powered document intelligence system** that allows users to upload documents and interact with them using contextual search and large language models.
+## About me
 
-**Tech:** Python, FastAPI, LangChain, Vector Databases, Streamlit  
-🔹 Demonstrates modern LLM-based RAG architecture  
-🔹 Designed for real-world knowledge retrieval use cases  
+I'm a software engineer focused on turning complex requirements into maintainable, production-minded systems. My work sits at the intersection of **backend engineering**, **distributed systems**, **cloud infrastructure**, and **applied AI**.
 
-🔗 https://github.com/Dars-git/Ask-Your-Docs
+- 🔭 Building event-driven services, resilient APIs, and intelligent developer tools
+- 🧠 Interested in system design, observability, MLOps, and LLM application architecture
+- ⚙️ Comfortable taking projects from architecture and implementation through testing and deployment
+- 🤝 Open to collaborating on backend, cloud, distributed systems, and AI projects
 
----
+## Featured work
 
-### 🛒 Cloud-Native Full-Stack E-Commerce Platform
-A **full-stack, cloud-deployed e-commerce platform** built using a microservices architecture with a modern frontend and scalable backend services.
+| Project | What it explores | Core technologies |
+|:---|:---|:---|
+| **[MLOps Pipeline](https://github.com/Dars-git/mlops-pipeline-main)** | Production-ready news classification with experiment tracking, data versioning, drift monitoring, automated tests, and CI | Python, FastAPI, MLflow, DVC, Docker |
+| **[Agent Platform](https://github.com/Dars-git/agent_template-master)** | A secure, observable foundation for building durable AI agents and exposing them through APIs | Python, FastAPI, LangGraph |
+| **[Claims Microservices](https://github.com/Dars-git/claims-microservices-main)** | Event-driven insurance claim processing built as independently deployable backend services | Java, Spring Boot, Microservices |
+| **[Replicated Token Manager](https://github.com/Dars-git/Fail-Silent-Replicated-Token-Manager-with-Atomic-Semantics)** | A distributed token-management system focused on replication, failure handling, and atomic semantics | Go, Distributed Systems |
+| **[Ask Your Docs](https://github.com/Dars-git/Ask-Your-Docs)** | Context-aware document question answering using retrieval-augmented generation | Python, FastAPI, LangChain, Vector Search |
+| **[Finance Microservices](https://github.com/Dars-git/Microservices-Finance-App)** | Cloud-ready finance services with discovery, centralized configuration, messaging, and an API gateway | Java, Spring Cloud, RabbitMQ, MongoDB |
 
-**Tech:** Spring Boot, React.js, MongoDB, Docker, Kubernetes, AWS  
-🔹 End-to-end system design and deployment  
-🔹 Emphasis on scalability, reliability, and production readiness  
+## Toolbox
 
-🔗 https://github.com/Dars-git/Fullstack-E-commerce-web-application
+**Languages**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 
----
+**Backend & AI**<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## 💻 Tech Stack
+**Cloud, data & delivery**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus)
+## GitHub at a glance
 
----
-
-### ⚙️ Backend & Distributed Systems
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300FFFF.svg?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django)
-
----
-
-### ☁️ Cloud, DevOps & MLOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%237926CE.svg?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
-
----
-
-### 🗄️ Databases, Caching & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dars-git&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Darshan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dars-git&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Darshan's most used languages" />
+</div>
 
 ---
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
+<div align="center">
 
----
+### Let's build something useful.
 
-### 🤖 AI, ML & LLM Systems
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)
-![Faiss](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge)
+Explore my repositories, open an issue, or connect with me through [GitHub](https://github.com/Dars-git).
 
----
-
-### 🔧 Tools & Engineering Practices
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Agile](https://img.shields.io/badge/Agile/Scrum-0052CC?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dars-git&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dars-git&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dars-git&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
