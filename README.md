@@ -1,67 +1,82 @@
 <div align="center">
 
-# Hi, I'm Darshan Vaghasiya 👋
+# Darshan Vaghasiya
 
-### Software Engineer · Distributed Systems · Cloud · Applied AI
+### AI Engineer · Full-Stack Engineer · Distributed Systems
 
-I build reliable backend platforms, cloud-native services, and AI systems designed for real-world use.
+I build production AI products, backend platforms, and distributed systems - from agent runtimes and secure integrations to cloud deployment and observability.
+
+[Portfolio](https://www.vaghasiya.dev) · [LinkedIn](https://www.linkedin.com/in/darshan-vaghasiya) · [Email](mailto:darshangvaghasiya0@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a software engineer focused on turning complex requirements into maintainable, production-minded systems. My work sits at the intersection of **backend engineering**, **distributed systems**, **cloud infrastructure**, and **applied AI**.
+I'm a software engineer with production experience across **Rust, Python, Java, C++, and TypeScript**. My recent work has focused on AI agent infrastructure, tool orchestration, resilient streaming, and secure enterprise integrations. I also have experience building Java microservices on AWS, full-stack applications, data and ML pipelines, and performance-sensitive security software.
 
-- 🔭 Building event-driven services, resilient APIs, and intelligent developer tools
-- 🧠 Interested in system design, observability, MLOps, and LLM application architecture
-- ⚙️ Comfortable taking projects from architecture and implementation through testing and deployment
-- 🤝 Open to collaborating on backend, cloud, distributed systems, and AI projects
+I enjoy owning features end to end: architecture, APIs, user experience, testing, deployment, and production support.
 
-## Featured work
+## Selected impact
 
-| Project | What it explores | Core technologies |
+- Shipped a **Rust/Axum + SolidJS + Tauri** AI desktop application to law-firm pilots
+- Built a registry spanning **150+ tools** and migrated **70+ integrations** to a unified provider API
+- Added human-in-the-loop approval, resilient SSE streaming, tracing, and recovery to production agent workflows
+- Integrated iManage and SharePoint through OAuth 2.0 and resolved **71 M365 security audit findings**
+- Built Spring Boot and Kafka microservices deployed through Jenkins, Docker, Kubernetes, and AWS
+- Reduced manual reporting effort by **35%**, document review time by **30%**, and malware detection time by **20%** across earlier roles
+
+## Experience
+
+| Role | Organization | Focus |
 |:---|:---|:---|
-| **[MLOps Pipeline](https://github.com/Dars-git/mlops-pipeline-main)** | Production-ready news classification with experiment tracking, data versioning, drift monitoring, automated tests, and CI | Python, FastAPI, MLflow, DVC, Docker |
-| **[Agent Platform](https://github.com/Dars-git/agent_template-master)** | A secure, observable foundation for building durable AI agents and exposing them through APIs | Python, FastAPI, LangGraph |
-| **[Claims Microservices](https://github.com/Dars-git/claims-microservices-main)** | Event-driven insurance claim processing built as independently deployable backend services | Java, Spring Boot, Microservices |
-| **[Replicated Token Manager](https://github.com/Dars-git/Fail-Silent-Replicated-Token-Manager-with-Atomic-Semantics)** | A distributed token-management system focused on replication, failure handling, and atomic semantics | Go, Distributed Systems |
-| **[Ask Your Docs](https://github.com/Dars-git/Ask-Your-Docs)** | Context-aware document question answering using retrieval-augmented generation | Python, FastAPI, LangChain, Vector Search |
-| **[Finance Microservices](https://github.com/Dars-git/Microservices-Finance-App)** | Cloud-ready finance services with discovery, centralized configuration, messaging, and an API gateway | Java, Spring Cloud, RabbitMQ, MongoDB |
+| **AI Engineer** | Dialogica | Production AI legal assistant, MCP tool platform, LangGraph runtime, Rust services, enterprise integrations |
+| **Software Engineer** | Blue Sigma Software Solutions | Java microservices, Kafka, AWS, API security, CI/CD, caching, and observability |
+| **Software Engineer** | VITG | LLM-assisted ETL, multimodal OCR, geospatial AI, and inference optimization |
+| **Research Assistant** | University of Maryland, Baltimore County | Multithreaded C++/Python malware detection and security testing |
+| **ML Intern · Django Developer** | August Infotech / A Plus Topper | ML prototypes, data processing, Django applications, and REST APIs |
 
-## Toolbox
+## Featured projects
 
-**Languages**<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+### [LangGraph Agent Platform](https://github.com/Dars-git/agent_template-master)
 
-**Backend & AI**<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+A production-minded agent service with SSE streaming, PostgreSQL checkpoints, Langfuse tracing, Prometheus metrics, and per-user thread authorization. Packaged with Alembic migrations, Pytest, Docker Compose, and GitHub Actions.
 
-**Cloud, data & delivery**<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `Langfuse` `Docker`
+
+### [ClaimFlow - Insurance Claims Platform](https://github.com/Dars-git/claims-microservices-main)
+
+Event-driven claim-processing microservices with lifecycle state machines, consistent REST and GraphQL error handling, and a notification service built around projected claim events.
+
+`Java` `Spring Boot` `Kafka` `GraphQL` `Docker`
+
+### [News Classification MLOps Pipeline](https://github.com/Dars-git/mlops-pipeline-main)
+
+A reproducible text-classification workflow with experiment tracking, data versioning, batch inference, model hot reload, PSI-based drift detection, automated tests, and containerized delivery.
+
+`Python` `Scikit-Learn` `MLflow` `DVC` `FastAPI` `Docker`
+
+## Technical toolkit
+
+- **AI and agents:** LangGraph, LangChain, MCP, RAG, tool calling, human-in-the-loop workflows, LangSmith, Langfuse
+- **Languages:** Rust, Python, Java, C++, TypeScript, JavaScript, SQL
+- **Backend and systems:** Axum, FastAPI, Spring Boot, Node.js, REST, GraphQL, OAuth 2.0, JWT, Kafka, Redis, asyncio
+- **Frontend and desktop:** SolidJS, React, Tauri, HTML, CSS
+- **Data:** PostgreSQL, MongoDB, SQLite, BigQuery, Pinecone, Faiss, ETL and event-streaming pipelines
+- **Cloud and delivery:** AWS, GCP, Docker, Kubernetes, Jenkins, GitHub Actions, Grafana
+
+## Education
+
+- **Master of Science, Software Engineering** - University of Maryland, Baltimore County
+- **Bachelor of Engineering, Computer Engineering** - Gujarat Technological University
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+I'm interested in building reliable AI products and systems that hold up beyond the demo.
 
-Explore my repositories, open an issue, or connect with me through [GitHub](https://github.com/Dars-git).
+[Explore my work](https://github.com/Dars-git?tab=repositories) · [Get in touch](mailto:darshangvaghasiya0@gmail.com)
 
 </div>
